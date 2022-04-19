@@ -12,7 +12,10 @@ git clone https://github.com/D4RKH0R1Z0N/blackout && cd blackout && pip install 
 Edit the timeout variable for longer blackouts
 You can install pyinstaller and compile it to a .exe file and prank your friends
 
-Please star my repo I worked till morning to afternoon working on this
-I am proud of this project because I wrote the code without anyones help
+Tested on Windows 11 (Works)
+Should Work On Any OS
 
 # Author : D4RKH0R1Z0N
+
+Please star my repo I worked till morning to afternoon working on this
+I am proud of this project because I wrote the code without anyones help
